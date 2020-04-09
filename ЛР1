@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head >
+	<title>Лабараторная работа1</title>
+		<meta charset="utf-8">
+
+	</head>
+	<body bgcolor="#bcffcc">
+	 <p><h2 align="center"><font color="#ff701e">Знакомство</font></h2></p>
+	 <hr>
+		<i>
+			<h3> Я хочу рассказать о себе:</h3></i>	
+		<h3>
+			<em>Меня зовут Арина, мне недавно исполнилось 19 лет. Я студентка Севастопольского государственного вуза, учусь сейчас на 1-м курсе информационной безопасности. </em></h3> 
+			<h4 align="right">Ниже вы видете мою фотографию</h4>
+		<img  src="../HOoZZ3byTGw.jpg" alt="Это я" width="40%"align="right"/>
+		<a href="ЛР1стр2.html">Страница2</a>	
+	</body>
+</html>
