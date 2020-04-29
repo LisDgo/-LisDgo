@@ -1,0 +1,29 @@
+#header {
+	font-weight: bolder;
+	color: #ea3933;
+	text-align: center ;
+	height: 20%;
+	border: 2rem solid #53b5ff;
+	font-family: Luminari, fantasy;
+	font-size: 135%;
+	text-shadow: #630000 0 3px 0 ;
+}
+#container {
+	background-color: #dcfffb;
+	height: 1000px;
+	margin: auto auto;
+	width: 80%;
+	border: 
+}
+#T1{
+	color: #ea3933;
+	font-family: Luminari, fantasy;
+	text-align: center;
+	font-size: 300%;
+}
+#T2{
+	color: #250e6c;
+	font-family: Luminari, fantasy;
+	text-align: center;
+	font-size: 140%;
+}
