@@ -1,0 +1,31 @@
+#container {
+	background-color: #dcfffb;
+	height: auto;
+	margin: auto auto;
+	width: 80%;
+	border: }
+#T1 {
+	color: #250e6c;
+	font-family: Luminari, fantasy;
+	text-align: center;
+	font-size: 140%;	
+	}
+	#T2 {
+	font-weight: bolder;
+	color: #ea3933;
+	font-family: Luminari, fantasy;
+	margin-left: 10px;
+	font-size: 140%;
+		}
+		#T3{
+	color: #250e6c;
+	font-family: Luminari, fantasy;
+	text-align: center;
+	font-size: 140%;
+		}
+		#A1{
+	text-align: center;
+	color: #250e6c;
+	font-family: Luminari, fantasy;
+	font-size: 140%;
+}
