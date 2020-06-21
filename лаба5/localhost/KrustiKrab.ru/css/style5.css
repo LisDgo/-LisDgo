@@ -1,0 +1,44 @@
+#header { 
+font-weight: bolder; 
+color: #ea3933;	
+text-align: center ; 
+height: 20%; 
+border: 2rem solid #53b5ff; 
+font-family: Luminari, fantasy; 
+font-size:135%; 
+text-shadow: #630000 0 3px 0 ; 
+} 
+#container { 
+background-color: #dcfffb; 
+height: 800px; 
+margin: auto auto; 
+width: 80%; 
+border: 
+} 
+#A1{ 
+color: #250e6c; 
+text-align: center; 
+font-size: 140%; 
+font-family: Luminari, fantasy; 
+} 
+#A2{ 
+text-align: center; 
+}
+#table{
+	font-family: Luminari, fantasy;
+	font-size: 120%;
+	color: #ea3933;
+}
+#form{
+	font-family: Luminari, fantasy;
+	font-size: 120%;
+	color: #ea3933;
+	margin-left: 40px;
+	
+}
+#form1{
+	font-family: Luminari, fantasy;
+	font-size: 120%;
+	color: #250e6c;
+	
+}
